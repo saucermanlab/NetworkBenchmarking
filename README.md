@@ -14,6 +14,6 @@ Figure 3 - intTypeStackedBar.m; benchmarkResultsOnNetworkRules.m
 
 Figure 4 - data from hypertrophyBenchmarking.xlsx
 
-Figure 6 - Run_NewEdges_pairs.m; 
+Figure 6 - Run_NewEdges_pairs.m; Simulate_NewModel.m
 
 Figure S1 - pathwayCommonsIntType.m
